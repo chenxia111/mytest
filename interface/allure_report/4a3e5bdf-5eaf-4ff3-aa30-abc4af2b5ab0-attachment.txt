@@ -1,0 +1,2 @@
+INFO     CHENXIA:test_land_stream.py:113 用例投资维护登录执行通过
+INFO     CHENXIA:test_land_stream.py:114 实际结果：{'code': '2000', 'message': None, 'data': 'eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJzaGFveSIsInVzZXJJZCI6IkcwMDA5NyIsIm5pY2tuYW1lIjoi6YK15p-Q5p-QIiwiZXhwIjoxNjUxOTkyNjMwfQ.B1db-wTk5ZNn2NHMqjKJ9fH9i__m7clj6k5FcVW9DrZBICUfiO1wRG9qJwYucfH2FxhVq_bnpgm46cO2uo0LOA', 'placeholder': None, 'errorMsg': None}

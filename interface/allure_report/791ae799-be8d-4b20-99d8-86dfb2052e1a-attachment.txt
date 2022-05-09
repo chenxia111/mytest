@@ -1,0 +1,2 @@
+INFO     CHENXIA:test_land_stream.py:113 用例地块发起审批执行通过
+INFO     CHENXIA:test_land_stream.py:114 实际结果：{'code': '2000', 'message': 'msg_update_success', 'data': None, 'placeholder': None, 'errorMsg': None}
